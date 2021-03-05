@@ -1,2 +1,2 @@
-# eatoutmoreoften
-Eat out more often
+# Eat Out More Often
+Eat out more often project
